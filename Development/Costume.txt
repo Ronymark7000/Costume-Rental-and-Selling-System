@@ -1,0 +1,10 @@
+Teuxedo,KAR.MA.TA,200,100
+RedSuit,ArrowStar,100,65
+FurSuit,Cineplexs,150,190
+Dragonn,LinearSta,120,32
+Sleever,JonnysWal,170,65
+Sharktk,CanvasRXR,195,91
+Boxerss,PoundSmrt,160,52
+X-Short,PoundSmrt,180,125
+Joggers,Puma+Nike,200,130
+T-Shirt,PlamTrees,130,150
